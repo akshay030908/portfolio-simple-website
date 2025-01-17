@@ -2,7 +2,7 @@
 
 
 
-This is a simple and responsive portfolio website built using **HTML and **basic CSS**. It showcases my skills, projects, and contact information in a clean and professional layout.  
+This is a simple and responsive portfolio website built using HTML and basic CSS. It showcases my skills, projects, and contact information in a clean and professional layout.  
 
 ### Features:  
 - Responsive Design: Optimized for desktop and mobile devices.  
